@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: SniperMonkey_SO
   m_EditorClassIdentifier: 
   Type: 2
-  Prefab: {fileID: 534948837250446180, guid: a7b6d0649e9427c4682e70a84c411ca9, type: 3}
+  Prefab: {fileID: 4096465855865953158, guid: 8fa90eccd09912242a2914c4b986a9f8, type: 3}
   RotationSpeed: 100
   projectileType: 2
-  Range: 5
+  Range: 7
   Cost: 150
   AttackableBloons: 000000000100000002000000
   AttackRate: 0.2
